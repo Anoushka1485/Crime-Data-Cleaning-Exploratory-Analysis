@@ -1,2 +1,26 @@
 # Crime-Data-Cleaning-Exploratory-Analysis
 Cleaning, exploring, and analyzing 2020–present crime data. Includes data preprocessing, EDA, visualizations, and insights on crime trends, patterns, regional differences, economic correlations, and predictive analysis using Python.
+
+# Crime Data Analysis (2020-Present)
+
+This project focuses on cleaning, exploring, and analyzing crime data from 2020 to the present. The goal is to uncover trends, patterns, and correlations in crime rates across regions, time, and demographics.
+
+## Dataset
+The dataset contains crime records from 2020 onward. Key information includes:
+- Crime types
+- Dates and times
+- Locations (city/region)
+- Demographic information (if available)
+
+## Project Objectives
+- **Data Cleaning:** Handle missing values, duplicates, outliers, and correct data types.
+- **Exploratory Data Analysis (EDA):** Visualize crime trends, seasonal patterns, most common crimes, and day-of-week variations.
+- **Regional & Demographic Analysis:** Compare crime rates by region and explore correlations with demographic and economic factors.
+- **Impact Analysis:** Assess how major events or policy changes influence crime trends.
+- **Predictive Analysis (Optional):** Forecast future crime trends using time series models like ARIMA or Prophet.
+
+## Tools Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- Jupyter Notebook
+
+## Project Structure
