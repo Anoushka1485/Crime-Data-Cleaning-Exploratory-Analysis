@@ -23,8 +23,3 @@ The dataset contains crime records from 2020 onward. Key information includes:
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - Jupyter Notebook
 
-## Project Structure
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for analysis
-├── reports/ # PDF report summarizing findings
-├── README.md # Project documentation
